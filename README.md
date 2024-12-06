@@ -2,7 +2,7 @@
 
 An advanced, fully-featured e-commerce platform offering users an intuitive and seamless online shopping experience. This platform integrates modern web technologies to provide a responsive user interface, secure transactions, and efficient backend management.
 
-![E-commerce Website](ecommerce-app-2023\client\public\images\Screenshot 2024-12-06 165640.png) 
+![E-commerce Website](https://github.com/Abdul25Basit/ecommerce-mern/blob/main/client/public/images/Screenshot%202024-12-06%20165640.png) 
 
 ---
 
